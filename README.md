@@ -40,7 +40,7 @@ It is a serverless module that lets you store webhook subscriptions and notify t
 Contributions are always welcome!
 
 ### Credits
-Developed by [microapps] (http://microapps.com/?utm_source=serverless-webhooks-readme&utm_medium=click&utm_campaign=github) Used in our live product: [MoonMail] (https://moonmail.io/?utm_source=serverless-webhooks-readme&utm_medium=click&utm_campaign=github) & [MONEI] (https://monei.net/?utm_source=serverless-webhooks-readme&utm_medium=click&utm_campaign=github)
+Developed by [microapps] (http://microapps.com/?utm_source=serverless-webhooks-readme&utm_medium=click&utm_campaign=github) Used in our live products: [MoonMail] (https://moonmail.io/?utm_source=serverless-webhooks-readme&utm_medium=click&utm_campaign=github) & [MONEI] (https://monei.net/?utm_source=serverless-webhooks-readme&utm_medium=click&utm_campaign=github)
 
 
 ## License
