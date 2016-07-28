@@ -17,10 +17,10 @@ It is a serverless module that lets you store webhook subscriptions and notify t
 
 ### Running instructions:
 
-- sis project init
-- sis resources deploy
-- sis function deploy
-- sis endpoint deploy —all
+- sls project init
+- sls resources deploy
+- sls function deploy
+- sls endpoint deploy —all
 
 ### Examples:
 
