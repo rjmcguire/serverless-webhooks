@@ -7,7 +7,7 @@ It is a serverless module that lets you store webhook subscriptions and notify t
 - create a webhook
 - post message to a webhook url
 - retry posting failed messages with exponential back-off algorithm
-- block web hook if url is no longer valid or resources has been moved
+- block webhook if url is no longer valid or resources has been moved
 - delete a webhook
 
 ### Requirements:
