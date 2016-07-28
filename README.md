@@ -40,7 +40,8 @@ It is a serverless module that lets you store webhook subscriptions and notify t
 Contributions are always welcome!
 
 ### Credits
-Developed by [microapps] (http://microapps.com/)
+Developed by [microapps] (http://microapps.com/?utm_source=eskimo-repo-readme&utm_medium=click&utm_campaign=github) Used in our live product: [MoonMail] (https://moonmail.io/?utm_source=eskimo-repo-readme&utm_medium=click&utm_campaign=github) & [MONEI] (https://monei.net/?utm_source=eskimo-repo-readme&utm_medium=click&utm_campaign=github)
+
 
 ## License
 serverless-webhooks is available under the MIT license. See the LICENSE file for more info.
