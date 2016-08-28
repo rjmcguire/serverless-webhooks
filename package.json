@@ -1,19 +1,17 @@
 {
   "name": "serverless-webhooks",
-  "version": "1.0.0",
-  "description": "It is a serverless module that lets you store webhook subscriptions and notify them of changes in your system.",
-  "main": "handler.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "version": "0.0.1",
+  "description": "A serverless module that lets you store webhooks and notify them of changes in your system.",
+  "author": "microapps",
+  "license": "MIT",
+  "private": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microapps/serverless-webhooks.git"
+    "url": "git://github.com/microapps/serverless-webhooks/"
   },
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/microapps/serverless-webhooks/issues"
   },
-  "homepage": "https://github.com/microapps/serverless-webhooks#readme"
+  "homepage": "https://github.com/microapps/serverless-webhooks#readme",
+  "dependencies": {}
 }
